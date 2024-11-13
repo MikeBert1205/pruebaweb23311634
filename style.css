@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f9;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  .button-container {
+    margin: 20px 0;
+  }
+  
+  .fb-like, .fb-share-button {
+    display: inline-block;
+  }
+  
